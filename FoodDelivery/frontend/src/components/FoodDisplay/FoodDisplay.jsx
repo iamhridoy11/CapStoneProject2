@@ -1,10 +1,3 @@
-/**
- * @license XEONCORP
- * @fileoverview Menage all routes
- * @copyright iamrahman 2024 All rights reserved
- * @author iamrahman <iamhridoy0@gmail.com>
- */
-
 import React, { useContext } from 'react'
 import './FoodDisplay.css'
 import { StoreContext } from '../../context/StoreContext'

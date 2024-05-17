@@ -1,10 +1,3 @@
-/**
- * @license XEONCORP
- * @fileoverview Menage all routes
- * @copyright iamrahman 2024 All rights reserved
- * @author iamrahman <iamhridoy0@gmail.com>
- */
-
 import React from 'react'
 import './AppDownload.css'
 import { assets } from '../../assets/assets'

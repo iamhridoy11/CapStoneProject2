@@ -1,10 +1,3 @@
-/**
- * @license XEONCORP
- * @fileoverview Menage all routes
- * @copyright iamrahman 2024 All rights reserved
- * @author iamrahman <iamhridoy0@gmail.com>
- */
-
 import React from 'react'
 import './Footer.css'
 import { assets } from '../../assets/assets'
@@ -38,7 +31,7 @@ const Footer = () => {
                 <h2>Get In Touch</h2>
                 <ul>
                     <li>111-222-3333</li>
-                    <li>fakeemail@tomato.com</li>
+                    <li>fakeemail@toamto.com</li>
                 </ul>
 
             </div>
@@ -46,7 +39,7 @@ const Footer = () => {
         </div>
 
         <hr />
-        <p className="footer-copyright">Copyright 2024 @iamrahman - All Right Reserved.</p>
+        <p className="footer-copyright">Copyright 2024 @iamhridoy - All Right Reserved.</p>
 
     </div>
   )

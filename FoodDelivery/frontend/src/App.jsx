@@ -1,10 +1,3 @@
-/**
- * @license XEONCORP
- * @fileoverview Menage all routes
- * @copyright iamrahman 2024 All rights reserved
- * @author iamrahman <iamhridoy0@gmail.com>
- */
-
 import React, { useState } from 'react'
 import Navbar from './components/navbar/Navbar'
 import { Route, Routes } from 'react-router-dom'
